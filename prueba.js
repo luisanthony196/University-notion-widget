@@ -18,5 +18,5 @@ console.log("before");
 setTimeout(() => {
   // runs after 2 seconds
   console.log("inside the function");
-}, 2000);
+}, 3000);
 console.log("after");
